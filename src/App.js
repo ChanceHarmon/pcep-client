@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <h2>PCEP PREP</h2>
       {/* <iframe width="560" height="315" src="https://www.youtube.com/embed/vVjvXGjghgw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> */}
-      <script type="text/javascript" src="https://cdn.datacamp.com/datacamp-light-latest.min.js"></script>
+      <script type="text/javascript" src="datacamp.js"></script>
 
       <div data-datacamp-exercise data-lang="python">
         <code data-type="pre-exercise-code">
