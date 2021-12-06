@@ -37,7 +37,7 @@ function App() {
         </div>
       </div>
 
-      <iframe frameBorder="0" width="100%" height="500px" src="https://replit.com/@chanceTechSmart/test-embed?embed=true"></iframe>
+      <iframe title="replFrame" frameBorder="0" width="100%" height="500px" src="https://replit.com/@chanceTechSmart/test-embed?embed=true"></iframe>
     </div>
   );
 }
