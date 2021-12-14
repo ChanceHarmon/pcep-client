@@ -14,7 +14,7 @@ function App() {
       <DefaultExample />
       <PrintForInRange />
 
-      <iframe title="vimeoFrame" frameBorder="0" width="100%" height="500px" src="https://player.vimeo.com/video/644925369?h=5e74eee39c" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+      <iframe src="https://player.vimeo.com/video/644925369?h=5e74eee39c" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
     </div>
   );
