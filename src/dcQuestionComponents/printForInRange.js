@@ -7,7 +7,7 @@ function printForInRange() {
       </code>
       <code data-type="sample-code">
         # Print out the numbers 1-10 using a `for in range` loop.<br />
-        for i in range(1,10):<br />
+        for i in range(1,11):<br />
         print(i)
         
       </code>
