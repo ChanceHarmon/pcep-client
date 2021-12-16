@@ -1,8 +1,10 @@
 import './Header.css'
-function Header(){
-  return(
+import logo from '../Assets/Logomark_Circle_Black_Small.png'
+function Header() {
+  return (
     <div className="Header">
-      <h4>Header</h4>
+      <img src={logo} alt="TS-logo" />
+      <h2>TechSmart</h2>
     </div>
   )
 }

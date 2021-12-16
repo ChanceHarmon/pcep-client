@@ -1,14 +1,20 @@
 import './Aside.css'
+import data from '../Util/initialTestObj.json'
 
-
-const testNums = ['Introduction to PCEP', 'Number Systems', 'Bitwise Operations', 'Comprehensions', 'Recursive Functions', 'Miscellaneous', 'CS201 and CS202 Review', 'Resources']
 function Aside() {
   return (
     <div className="Aside">
       <ul>
-        {testNums.map((item, index) =>
+        {data.content.map((item, index) =>
           <li key={index}>
-            <p> {item}</p>
+            <h3>{item.overview.label}</h3>
+            {/* <ul>
+              {data.content[index].topicContent.map((results, i) =>
+                <li key={i}>
+                  <p>{results.label}</p>
+                </li>
+              )}
+            </ul> */}
           </li>
         )
         }

@@ -1,9 +1,10 @@
 import './Footer.css'
 
-function Footer(){
-  return(
+
+function Footer() {
+  return (
     <div className="Footer">
-      <h4>Footer</h4>
+      <h3>&copy; TechSmart 2022</h3>
     </div>
   )
 }
