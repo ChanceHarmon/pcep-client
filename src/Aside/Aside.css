@@ -1,0 +1,27 @@
+.Aside > ul{
+  height: 100%;
+}
+
+.Aside > ul > li{
+  height: calc(100% / 8);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.Aside > ul > li:not(:last-child):after{
+  content:"";
+  background: #ccc;
+  position: absolute;
+  bottom: 3%;
+  height: 2px;
+  width: 96%;
+  margin-left: 2%;
+  margin-right: 2%;
+  border-radius: 50%;
+}
+
+.Aside > ul > li:hover h3 {
+  color: var(--ts_green)
+}

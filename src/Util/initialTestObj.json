@@ -1,0 +1,132 @@
+{
+  "content": [
+    {
+      "overview": {
+        "label": "Introduction to PCEP",
+        "content": "Lesson overview and content objects will go here in future versions."
+      },
+      "topicContent": [
+        {
+          "label": "Exercise One",
+          "content": "Placeholder for future lessons, quizzes, content."
+        },
+        {
+          "label": "Exercise Two",
+          "content": "Placeholder for future lessons, quizzes, content."
+        }
+      ]
+    },
+    {
+      "overview": {
+        "label": "Number Systems",
+        "content": "Lesson overview and content objects will go here in future versions."
+      },
+      "topicContent": [
+        {
+          "label": "Exercise One",
+          "content": "Placeholder for future lessons, quizzes, content."
+        },
+        {
+          "label": "Exercise Two",
+          "content": "Placeholder for future lessons, quizzes, content."
+        }
+      ]
+    },
+    {
+      "overview": {
+        "label": "Bitwise Operations",
+        "content": "Lesson overview and content objects will go here in future versions."
+      },
+      "topicContent": [
+        {
+          "label": "Exercise One",
+          "content": "Placeholder for future lessons, quizzes, content."
+        },
+        {
+          "label": "Exercise Two",
+          "content": "Placeholder for future lessons, quizzes, content."
+        }
+      ]
+    },
+    {
+      "overview": {
+        "label": "Comprehensions",
+        "content": "Lesson overview and content objects will go here in future versions."
+      },
+      "topicContent": [
+        {
+          "label": "Exercise One",
+          "content": "Placeholder for future lessons, quizzes, content."
+        },
+        {
+          "label": "Exercise Two",
+          "content": "Placeholder for future lessons, quizzes, content."
+        }
+      ]
+    },
+    {
+      "overview": {
+        "label": "Recursive Functions",
+        "content": "Lesson overview and content objects will go here in future versions."
+      },
+      "topicContent": [
+        {
+          "label": "Exercise One",
+          "content": "Placeholder for future lessons, quizzes, content."
+        },
+        {
+          "label": "Exercise Two",
+          "content": "Placeholder for future lessons, quizzes, content."
+        }
+      ]
+    },
+    {
+      "overview": {
+        "label": "Miscellaneous",
+        "content": "Lesson overview and content objects will go here in future versions."
+      },
+      "topicContent": [
+        {
+          "label": "Resource One",
+          "content": "Placeholder for future lessons, quizzes, content."
+        },
+        {
+          "label": "Resource Two",
+          "content": "Placeholder for future lessons, quizzes, content."
+        }
+      ]
+    },
+    {
+      "overview": {
+        "label": "CS201 and CS202 Review",
+        "content": "Lesson overview and content objects will go here in future versions."
+      },
+      "topicContent": [
+        {
+          "label": "CS 201",
+          "content": "Placeholder for future lessons, quizzes, content."
+        },
+        {
+          "label": "CS202",
+          "content": "Placeholder for future lessons, quizzes, content."
+        }
+      ]
+    },
+    {
+      "overview": {
+        "label": "Resources",
+        "content": "Lesson overview and content objects will go here in future versions."
+      },
+      "topicContent": [
+        {
+          "label": "Resource One",
+          "content": "Placeholder for future lessons, quizzes, content."
+        },
+        {
+          "label": "Resource Two",
+          "content": "Placeholder for future lessons, quizzes, content."
+        }
+      ]
+    }
+  ]
+}

@@ -1,8 +1,20 @@
+
+
+:root {
+  --ts_white: rgb(255,255,255);
+  --ts_black: rgb(0,0,0); 
+  --ts_black_shade_1: rgb(23,23,23);
+  --ts_grey_text_color: rgb(155,155,155);
+  --ts_green: rgb(167, 195, 129);
+}
+
+html, body, #root {
+  height: 100%
+}
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: 'Times New Roman', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -10,4 +22,10 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+h2{
+  font-size: 2.5rem;
+}
+h3{
+  font-size: 1.5rem;
 }
